@@ -1,1 +1,2 @@
-print("Jean claude")
+print("Jean Claude")
+print("Ralph Mamaril")
