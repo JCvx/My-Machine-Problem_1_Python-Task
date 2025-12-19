@@ -1,3 +1,5 @@
 print("Jean Claude")
 print("Ralph Mamaril")
 print("Terrence Gil M. Lopez")
+print("Prince Chen C. Valdez")
+print("MemoryMap: A Smart Location-Based Safety System for Alzheimer's Disease Patients")
